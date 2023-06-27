@@ -1,0 +1,106 @@
+{
+    "main": [
+        {
+            "key": 1,
+            "logo": "icon-facebook.svg",
+            "userId": "@nathanf",
+            "number": 1987,
+            "updown": "icon-up.svg",
+            "update": 12,
+            "colorClass": "facebook"
+        },
+        {
+            "key": 2,
+            "logo": "icon-twitter.svg",
+            "userId": "@nathanf",
+            "number": 1044,
+            "updown": "icon-up.svg",
+            "update": 99,
+            "colorClass": "twitter"
+        },
+        {
+            "key": 3,
+            "logo": "icon-instagram.svg",
+            "userId": "@realnathanf",
+            "number": "11k",
+            "updown": "icon-up.svg",
+            "update": 1099,
+            "colorClass": "instagram"
+        },
+        {
+            "key": 4,
+            "logo": "icon-youtube.svg",
+            "userId": "Nathan F.",
+            "number": 8239,
+            "updown": "icon-down.svg",
+            "update": 144,
+            "colorClass": "youtube"
+        }
+    ],
+    "overview": [
+        {
+            "key": 1,
+            "title": "Page Views",
+            "logo": "facebook",
+            "change": 87,
+            "rating": 3,
+            "color": "green"
+        },
+        {
+            "key": 2,
+            "title": "Likes",
+            "logo": "facebook",
+            "change": 52,
+            "rating": 2,
+            "color": "red"
+        },
+        {
+            "key": 3,
+            "title": "Likes",
+            "logo": "instagram",
+            "change": 5462,
+            "rating": 2257,
+            "color": "green"
+        },
+        {
+            "key": 4,
+            "title": "Profile Views",
+            "logo": "instagram",
+            "change": "52k",
+            "rating": 1375,
+            "color": "green"
+        },
+        {
+            "key": 5,
+            "title": "Retweets",
+            "logo": "twitter",
+            "change": 117,
+            "rating": 303,
+            "color": "green"
+        },
+        {
+            "key": 6,
+            "title": "Likes",
+            "logo": "twitter",
+            "change": 507,
+            "rating": 553,
+            "color": "green"
+        },
+        {
+            "key": 7,
+            "title": "Likes",
+            "logo": "youtube",
+            "change": 107,
+            "rating": 19,
+            "color": "red"
+        },
+        {
+            "key": 8,
+            "title": "Total Views",
+            "logo": "youtube",
+            "change": 1470,
+            "rating": 12,
+            "color": "red"
+        }
+    ]
+}
