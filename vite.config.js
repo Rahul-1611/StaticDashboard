@@ -7,6 +7,5 @@ export default defineConfig({
   base: "/StaticDashboard/",
   esbuild: {
     jsxFactory: 'React.createElement',
-    jsxInject: `import React from 'react'`,
   },
 })
