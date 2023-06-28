@@ -1,6 +1,6 @@
-import Header from "../components/Header.jsx"
-import Card from "../components/Card.jsx"
-import Overview from "../components/Overview.jsx"
+import Header from "../components/Header"
+import Card from "../components/Card"
+import Overview from "../components/Overview"
 import data from "../data.json"
 import { useState } from "react"
 

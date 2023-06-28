@@ -1,12 +1,4 @@
-import { useState, useEffect } from "react"
 export default function Header(props) {
-    // useEffect(() => {
-    //     if (checked) {
-    //         console.log("checked")
-    //         let root = document.querySelector('#root');
-    //         root.style.backgroundColor = 'red';
-    //     }
-    // }, [checked])
     return (
         <header>
             <div className="head-left">
