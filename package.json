@@ -1,7 +1,6 @@
 {
   "name": "staticdashboard",
   "private": true,
-  "homepage": "https://ubiquitous-sopapillas-cae36d.netlify.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
