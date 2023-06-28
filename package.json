@@ -1,6 +1,7 @@
 {
   "name": "staticdashboard",
   "private": true,
+  "homepage": "http://Rahul-1611.github.io/StaticDashboard",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -11,7 +12,6 @@
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "http://Rahul-1611.github.io/StaticDashboard",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
